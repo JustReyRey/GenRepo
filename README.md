@@ -1,2 +1,2 @@
 # GenRepo
-General Projects
+Projects and Created Templates
